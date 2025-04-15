@@ -125,6 +125,11 @@ Code context is displayed with language-specific syntax highlighting to make it 
 - Types: Green (Swift)
 - Comments: Yellow (with the current comment highlighted in bold)
 
+### To Do
+
+1. Add testing. Normally I would have up front but this morphed from a personal tool I was making on the fly to deciding to refactor and release it for others to use.
+2. Add support for more languages.
+
 ## 🔒 License
 
 MIT © [Ernest Cunningham]
