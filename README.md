@@ -132,4 +132,4 @@ Code context is displayed with language-specific syntax highlighting to make it 
 
 ## 🔒 License
 
-MIT © [Ernest Cunningham]
+MIT © Ernest Cunningham
