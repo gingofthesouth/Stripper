@@ -127,4 +127,4 @@ Code context is displayed with language-specific syntax highlighting to make it 
 
 ## 🔒 License
 
-MIT © [Your Name]
+MIT © [Ernest Cunningham]
